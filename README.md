@@ -5,3 +5,4 @@ fun:函数
 json:json
 obj:对象
 prac_folder:访问,引用块
+high_level:闭包＋函数式编程
