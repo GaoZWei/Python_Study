@@ -1,3 +1,6 @@
+# 这个爬虫可以爬出斗鱼的分类页的数据
+# 解决的网站
+# https://blog.csdn.net/zhang_cl_cn/article/details/94575568
 from urllib import request
 from io import BytesIO
 import gzip
